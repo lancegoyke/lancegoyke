@@ -2,7 +2,7 @@ Hi, I’m @lancegoyke 👋
 
 Most of my life is spent as a **personal trainer** 💪
 
-I’ve been interested in software engineering all my life, starting with HTML back in the '90s. I've been spending most of learning time on **web development** with *Django* and *Python*.
+I’ve been interested in software engineering all my life, starting with HTML back in the '90s. I've been spending most of learning time on **web development** with *Django* and *Python*, though I've been dabbling in *htmx*, *JavaScript*, and *React*.
 
 Contact me: lance@lancegoyke.com 📧
 
