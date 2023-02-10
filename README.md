@@ -1,15 +1,15 @@
 Hi, I’m @lancegoyke 👋
 
-Most of my life is spent as a **personal trainer** 💪
+Most of my life has been spent as a personal trainer 💪, but I'm looking for careers in **software engineering**. If I might be a good fit for a role on your team, [I'd love to chat.](mailto:lance@lancegoyke.com)
 
 I’ve been interested in software engineering all my life, starting with HTML back in the '90s. Since 2016, I've been teaching myself **web development** with *Django* and *Python*, though I've been dabbling in *htmx*, *JavaScript*, and *React*.
 
-Contact me: [lance@lancegoyke.com 📧](mailto:lance@lancegoyke.com)
+[Contact me 📧](mailto:lance@lancegoyke.com)
 
 My public projects:
 - Personal Site: [lancegoyke.com](https://lancegoyke.com)
 - Free metabolic workouts: [record.lancegoyke.com](https://record.lancegoyke.com)
-- Fitness programs (and more to come): [mastering.fitness](https://mastering.fitness)
+- Fitness programs, exercise database, cardio workouts, and more!: [mastering.fitness](https://mastering.fitness)
 
 I write in public:
 - [Fitness Writing](https://lancegoyke.com/writing)
