@@ -6,6 +6,8 @@ I’ve been interested in software engineering all my life, starting with HTML b
 
 [Contact me 📧](mailto:lance@lancegoyke.com)
 
+Check out [my lightning talk at Python Web Conference 2023 📺](https://youtu.be/XE61VEwcfWQ)
+
 My public projects:
 - Personal Site: [lancegoyke.com](https://lancegoyke.com)
 - Free metabolic workouts: [record.lancegoyke.com](https://record.lancegoyke.com)
