@@ -2,7 +2,9 @@ Hi, I’m @lancegoyke 👋
 
 Most of my life has been spent as a personal trainer 💪, but **I'm looking for careers in software engineering** 👨‍💻. If I might be a good fit for a role on your team, [I'd love to chat.](mailto:lance@lancegoyke.com)
 
-I’ve been interested in software engineering all my life, starting with HTML back in the '90s. Since 2016, I've been teaching myself web development with *Django* and *Python*, though I've been dabbling in *htmx*, *JavaScript*, and *React*.
+I’ve been interested in software engineering all my life, starting with HTML back in the '90s. Since 2016, I've been teaching myself web development with *Django* and *Python*, though I've been dabbling in *htmx*, *JavaScript*, *React*, and *Rust*.
+
+My most recent work is on [FipFit](https://www.fipfit.com/) (fitness SaaS).
 
 [Contact me 📧](mailto:lance@lancegoyke.com)
 
