@@ -4,7 +4,7 @@ Most of my life has been spent as a personal trainer 💪.
 
 I’ve been interested in software engineering all my life, starting with HTML back in the '90s. Since 2016, I've been teaching myself web development with *Django* and *Python*, though I've been dabbling in *htmx*, *JavaScript*, *React*, and *Rust*.
 
-My most recent work is on [CopientAI](https://copient.ai/) (AI-powered sales training).
+My most recent work is on [Copient.ai](https://copient.ai/) (AI-powered sales training).
 
 [Contact me 📧](mailto:lance@lancegoyke.com)
 
